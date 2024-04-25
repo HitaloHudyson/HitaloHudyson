@@ -1,5 +1,7 @@
 ### Bem vindo ao meu perfil no GitHub.
-- 📬 email: hitalo.hudyson.feitosa@gmail.com
-- 📖 Estudando: Linguagem C e C++
+- 📖 Estudando: C e C++
+- 📬 Email: hitalo.hudyson.feitosa@gmail.com
 - 💼 Linkedin: https://www.linkedin.com/in/hitalo-feitosa-117462255
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HitaloHudyson&show_icons=true&theme=radical)
+- 📋 CV: https://drive.google.com/file/d/1zt7VkH1BrPONv2M5lM45usYrW3pkYrir/view?usp=drivesdk
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HitaloHudyson&hide=javascript,html)
